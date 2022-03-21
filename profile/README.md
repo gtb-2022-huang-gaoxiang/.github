@@ -1,6 +1,8 @@
 # Welcome to HGX's Org
 
-~~Hi, this is me.~~
+Hello! My name is HuangGaoxiang, I'm from Hubei.
+
+~~This is me.~~
 
 <div align="center">
 	<img src="assets/avatar.jpg" alt="Editor" width="300">
