@@ -2,18 +2,26 @@
 
 ~~Hi, this is me.~~
 
-![my-cat](assets/avatar.jpg)
+<div align="center">
+	<img src="assets/avatar.jpg" alt="Editor" width="300">
+</div>
 
 Sorry, the photo is wrong:)
 
 This is my cat:
 
-![my-cat](assets/my-cat.jpg)
+<div align="center">
+	<img src="assets/my-cat.jpg" alt="Editor" width="300">
+</div>
 
 He likes to sleep.
 
-![my-cat-sleep](assets/my-cat-sleep.jpg)
+<div align="center">
+	<img src="assets/my-cat-sleep.jpg" alt="Editor" width="300">
+</div>
 
 And is me in college period:
 
-![me-in-college](assets/me-in-college.jpg)
+<div align="center">
+	<img src="assets/me-in-college.jpg" alt="Editor" width="300">
+</div>
