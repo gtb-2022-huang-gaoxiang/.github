@@ -2,6 +2,10 @@
 
 Hello! My name is HuangGaoxiang, I'm from Hubei.
 
+I was born on February 23, 2000, and studied at Wuhan Textile University, majoring in computer science and technology.
+
+Very lucy! I got an offer from TW last fall.
+
 ~~This is me.~~
 
 <div align="center">
